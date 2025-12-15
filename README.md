@@ -12,6 +12,7 @@ The Jetson decides per-frame whether to use cloud or local based on:
 More information about the project or required software can be found [here: ](https://jeankwon.github.io/ECM202A_2025Fall_Project_8/)
 
 Make sure to check the port and IP address of your set up and update the corresponding fields in the script. 
+frames directory have some example jepg images that can be used. 
 
 On the A6000 machine, run:
 ```
