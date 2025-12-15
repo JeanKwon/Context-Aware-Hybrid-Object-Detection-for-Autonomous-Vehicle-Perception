@@ -31,6 +31,7 @@ python relay_server.py
 Lastly, on your Jetson, run:
 ```
 python test.py
+```
 
 ---
 
